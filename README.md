@@ -154,7 +154,7 @@ delimiter ;
 
 #### Dados Técnicos
 
-Linguagem: JAVA
-Front: Java Swing
-SGBD: MySQL
-Arquitetura: MVC
+- Linguagem: **JAVA**
+- Front: **Java Swing**
+- SGBD: **MySQL**
+- Arquitetura: **MVC**
